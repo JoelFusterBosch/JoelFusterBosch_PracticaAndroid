@@ -8,7 +8,8 @@ Aquesta pràctica té una carpeta que tindra un projecte per a fer en Android St
 3. Bloc 3. Comptador amb Compose
 ## Bloc 1 
   ### Activitats sobre el comptador
-    Aquest projecte de Android és una Activitat buida la qual té la següent estructura i les carpetes obertes són les més importants:
+  ---
+  Aquest projecte de Android és una Activitat buida la qual té la següent estructura i les carpetes obertes són les més importants:
   ---
   ![Foto de exemple](https://github.com/user-attachments/assets/0d53ac47-5088-47ef-ae0b-27f58b7cb4ec)
   ---
