@@ -9,11 +9,13 @@ Aquesta pràctica té una carpeta que tindra un projecte per a fer en Android St
 ## Bloc 1 
   ### Activitats sobre el comptador
   Aquest projecte de Android és una Activitat buida la qual té la següent estructura i les carpetes obertes són les més importants:
+  ---
   ![Foto de exemple](https://github.com/user-attachments/assets/0d53ac47-5088-47ef-ae0b-27f58b7cb4ec)
-    - kotlin+java/com.pmdm.ieseljust.comptador.
-        Ací està el main i el mainActivity, els principals per a fer la aplicació.
-    - res/layout
-        Ací estan la interfaç de la aplicació.
+  ---
+  - kotlin+java/com.pmdm.ieseljust.comptador.
+      Ací està el main i el mainActivity, els principals per a fer la aplicació.
+   - res/layout
+       Ací estan la interfaç de la aplicació.
   ### Activitats sobre el cicle de vida i la pèrdua d'estat
   En el projecte hi ha un problema en el comptador, i es que al hora de girar la pantalla el comptador independentment que
   si has tocat el botó de rest o no el comptador torna a 0 i la solució està en el procés de OnSaveInstance i OnRestoreInstance,
@@ -38,4 +40,4 @@ Aquesta pràctica té una carpeta que tindra un projecte per a fer en Android St
   ![Botons units](https://github.com/user-attachments/assets/7ef17b5b-2638-41fd-874c-1e948fd0258d)
   ---
   En la segona imatge posem les fletxes indicades per cercles per dalt i per baix al botó + per a que és quede centrat respecte al botó del +
-  i corregim imperfeccions cambiant els valors en el layout de la primera imatge  
+  i corregim imperfeccions cambiant els valors en el layout de la primera imatge.  
