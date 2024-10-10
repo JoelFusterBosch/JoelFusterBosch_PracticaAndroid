@@ -1,4 +1,4 @@
-#Pràctica Android
+# Pràctica Android
 
 Aquesta pràctica té una carpeta que tindra un projecte per a fer en Android Studio el qual es un comptador,i l'objectiu és fer botons de decrementar i de tornar a 0, i aquest es divideix en 3 blocs:
 1. Bloc 1. Activitats sobre el comptador.
