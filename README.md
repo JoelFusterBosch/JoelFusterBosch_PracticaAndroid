@@ -22,6 +22,7 @@ Aquesta pràctica té una carpeta que tindra un projecte per a fer en Android St
   ### Intents entre activitats
   En "activity_main.xml" ens fixem en el següent per a posar el botó:
   ![Foto per al botó](https://github.com/user-attachments/assets/f0b4784a-e8b7-4b5f-8f27-a432cf505c52)
+  
   i els arrastrem a la interfaç on nosaltres vullgam.
 ## Bloc 2
    En aquest bloc anirem al main i posarem les funcions dels botons(El nom de les funcions tenen que ser iguals als que hem posat als botons ex:Si li posem al botó bot0 la funció es tindra que dir bot0) 
