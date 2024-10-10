@@ -8,7 +8,7 @@ Aquesta pràctica té una carpeta que tindra un projecte per a fer en Android St
 3. Bloc 3. Comptador amb Compose
 ## Bloc 1 
   ### Activitats sobre el comptador
-  Aquest projecte de Android és una Activitat buida la qual té la següent estructura i les carpetes obertes són les més importants:
+    Aquest projecte de Android és una Activitat buida la qual té la següent estructura i les carpetes obertes són les més importants:
   ---
   ![Foto de exemple](https://github.com/user-attachments/assets/0d53ac47-5088-47ef-ae0b-27f58b7cb4ec)
   ---
@@ -22,7 +22,7 @@ Aquesta pràctica té una carpeta que tindra un projecte per a fer en Android St
   el que has de fer és guardar el valor actual en OnSaveInstance quan tanques la aplicació o quan gires la pantalla i carregar-lo en OnRestoreInstance
   quan obris l'aplicació o quan gire la pantalla
   ### Intents entre activitats
-  En "activity_main.xml" ens fixem en el següent per a posar el botó:
+    En "activity_main.xml" ens fixem en el següent per a posar el botó:
   ---
   ![Foto per al botó](https://github.com/user-attachments/assets/f0b4784a-e8b7-4b5f-8f27-a432cf505c52)  
   ---
@@ -31,7 +31,7 @@ Aquesta pràctica té una carpeta que tindra un projecte per a fer en Android St
    En aquest bloc anirem al main i posarem les funcions dels botons(El nom de les funcions tenen que ser iguals als que hem posat als botons ex:Si li posem al botó bot0 la funció es tindra que dir bot0) 
    i el que és fa és amb la funció actualtzarem el comptador per a que o disminuisca o es pose a 0 in per últim usar el toString() per a que el número es mostre en pantalla.
   ## Bloc 3
-  En aquest bloc posarem els botons per a que queden en la mateixa direcció, i és fa amb:
+    En aquest bloc posarem els botons per a que queden en la mateixa direcció, i és fa amb:
   ---
   ![Layout botons](https://github.com/user-attachments/assets/914e4b46-f299-4292-bd8c-9d950e0395f0)
   ---
